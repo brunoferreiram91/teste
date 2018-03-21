@@ -1,0 +1,5 @@
+total 44
+drwxr-xr-x 1 bruno 197609 0 mar 21 19:07 ./
+drwxr-xr-x 1 bruno 197609 0 mar 21 18:57 ../
+drwxr-xr-x 1 bruno 197609 0 mar 21 19:03 .git/
+-rw-r--r-- 1 bruno 197609 0 mar 21 19:07 teste.txt
