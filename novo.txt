@@ -1,5 +1,7 @@
 aqui vamos tentar um novo exercicio de commit
-
+linha 4
+linha 5
+linha 6
 não quero mais nada 
 
 vou jantar kk
